@@ -1,6 +1,6 @@
-## Teste Devell
+## Yii2 Framework
 
-Repositório dedicado ao teste da Devell
+Repositório dedicado ao teste do framework Yii2
 
 ----
 
